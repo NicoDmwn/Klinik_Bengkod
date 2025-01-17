@@ -24,6 +24,6 @@ MySQL
 Apache Server
 Langkah Instalasi:
 
-Clone : 
+Clone : https://github.com/NicoDmwn/Klinik_Bengkod.git
 copas ke htdocs
 jalankan XAMPP
